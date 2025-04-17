@@ -3,8 +3,8 @@
 
 # 🚌 Intercity Bus Reservation System
 
-**Semester Project by Usama Ashraf**  
-📞 Contact: 0319-9272955
+**Semester Project by Usama Ashraf/ Syed Muhammad Sajawal Husain**  
+📞 Contact: 0319-9272955 / 0328-0841432
 
 ---
 
